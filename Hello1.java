@@ -47,7 +47,7 @@ public class Hello1 {
 				continue;
 			}
 			txtStr = new String(buffer);
-		//	System.out.print(txtStr);		//
+		//	System.out.print(txtStr);		//i'm here,hhhhhhhhh
 			rf.close();
 			
 			return true;
